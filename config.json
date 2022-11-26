@@ -1,0 +1,7 @@
+{
+  "prefix": "BOT_PREFIX",
+  "status":{
+    		"name": "${prefix}help | dsc.gg/maxgaming.yt",
+    		"type": "WATCHING"
+    	}
+}
